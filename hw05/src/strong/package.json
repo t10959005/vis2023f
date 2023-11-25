@@ -1,0 +1,14 @@
+{
+  "name": "5dad6c1dbae2647a",
+  "main": "5dad6c1dbae2647a@18.js",
+  "version": "18.0.0",
+  "homepage": "https://observablehq.com/d/5dad6c1dbae2647a",
+  "author": {
+    "name": "北科大-陳右儒's Workspace",
+    "url": "https://observablehq.com/@bei-ke-da-chen-you-ru-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
